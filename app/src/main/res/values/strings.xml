@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string name="vertex">Pick whomever catches your eye...you can always change it later</string>
+    <string-array name="titles">
+        <item>meme1</item>
+         <item>meme2</item>
+         <item>meme3</item>
+         <item>meme4</item>
+         <item>meme5</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>description1</item>
+        <item>description2</item>
+        <item>description3</item>
+        <item>description4</item>
+        <item>description5</item>
+
+    </string-array>
+</resources>
